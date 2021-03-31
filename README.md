@@ -46,3 +46,5 @@ Análise final do resultado
 
 # to do
 Transformar o codigo em markdown com a análise feita 
+
+Fiz a pesquisa sobre Afogamentos. E ao analisar os dados do G1 , no wordcloud , ficou evidente que sábado, domingo e homem eram os dias de mais ocorrências e quem mais morria, até ai tudo bem. A surpresa veio quando nas entidades eu separei por localidade , pois queria ter uma noção de volume de mortes por localidade e posteriormente bater com os dados oficiais e se poderia ser correlacionado de alguma forma. A surpresa veio como a ausência de matérias com localidade rio de janeiro, aumentei o numero de paginas de pesquisa e nada havia mudado. Fui atrás dos dados oficiais e realmente o numero de óbitos por afogamento no RJ é absurdamente inferior a media dos outros estados. Chegando quase a 0. A conclusão que eu tive que a falta de dados é um dado relevante! E que a quantidade de matérias sobre mortes por afogamento é compatível( falta criar um modelo descritivo) com o numero real de casos. 
