@@ -21,7 +21,7 @@ Criar uma nuvem de palavras
 
 Fazer uma análise sobre o resultado
 
-#Parte 2 
+# Parte 2 
 
 Visualizar as correlações no Gephi
 
@@ -31,7 +31,7 @@ Tratar as duplicidades
 
 Gerar o arquivo para o Graphi
 
-#Parte 3
+# Parte 3
 
 No Graphi tratar as inconsistências, limpeza e manipulação das entidades
 
@@ -39,7 +39,7 @@ Criar a visualização
 
 Analisar a visualização
 
-#Parte 4
+# Parte 4
 
 Análise final do resultado
 
