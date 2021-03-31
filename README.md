@@ -43,3 +43,6 @@ Analisar a visualização
 
 Análise final do resultado
 
+
+# to do
+Transformar o codigo em markdown com a análise feita 
